@@ -2,16 +2,19 @@
 learning team work
 
 ## moving branches
-```bash
+
+```BASH
 git checkout main
 ```
 ## creating branches
-```bash
+
+```BASH
 git checkout -b (branch name)
-```bash
+```
 ## push branch
 make sure ur in the right branch when you do this
-``` bash
+
+```BASH
 git add .
 git commit -m "message"
 git push origin (branch name)
